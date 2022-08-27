@@ -1,0 +1,15 @@
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmAnaSayfa.resources
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmGiris.resources
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmKullaniciEkle.resources
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPersonel_Gider.resources
+C:\Users\Hasan\source\repos\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPersonel_İzin.resources
